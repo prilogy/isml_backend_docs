@@ -9,7 +9,7 @@
       "output": {
         ".html": {
           "relative_path": "api/articles/admins.html",
-          "hash": "k6WrC2j290Hp+8QXjm3DnA=="
+          "hash": "qugDimgoO49ySerzrKE3hg=="
         }
       },
       "is_incremental": false,
@@ -21,7 +21,7 @@
       "output": {
         ".html": {
           "relative_path": "api/articles/patients.html",
-          "hash": "AJfcVEHYSRBISBnKXBraxQ=="
+          "hash": "8gPrt4Q0pPc4iXzcgWzT3w=="
         }
       },
       "is_incremental": false,
@@ -33,7 +33,7 @@
       "output": {
         ".html": {
           "relative_path": "api/articles/providers.html",
-          "hash": "vKK6PC4H+GQku07/Gkuwxg=="
+          "hash": "WH66chRP4cE7Os775OtQAA=="
         }
       },
       "is_incremental": false,
@@ -45,7 +45,7 @@
       "output": {
         ".html": {
           "relative_path": "api/index.html",
-          "hash": "X16x1QmmOiqKZYEK6GigWA=="
+          "hash": "QEnOOx3TA0GRlxaPYIK2Ug=="
         }
       },
       "is_incremental": false,
@@ -69,7 +69,7 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "5kKdomQZXl2IqA6lEQOc+A=="
+          "hash": "Qfl0O7JeNrBlcflRI3LR5Q=="
         }
       },
       "is_incremental": false,
